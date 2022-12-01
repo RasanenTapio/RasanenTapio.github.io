@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Phone +358 20 634 1789</p>
-    <p>[tapio.räsänen@kela.fi](mailto:tapio.räsänen@kela.fi)</p>
+    [tapio.räsänen@kela.fi](mailto:tapio.räsänen@kela.fi)
+	
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
