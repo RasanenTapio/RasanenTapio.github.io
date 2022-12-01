@@ -11,7 +11,6 @@ profile:
   address: >
     <p>Phone +358 20 634 1789</p>
     <p>[tapio.rasanen@kela.fi](mailto:tapio.rasanen@kela.fi)</p>
-	
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
