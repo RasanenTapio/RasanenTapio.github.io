@@ -7,9 +7,9 @@ subtitle: Researcher, Social Insurance Institution of Finland, Kela. Helsinki
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>Work Phone +358 20 634 1789</p>
+    <p>Work +358 20 634 1789</p>
     <p>tapio.rasanen@kela.fi</p>
 
 news: true  # includes a list of news items
