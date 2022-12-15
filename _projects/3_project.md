@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How does motherhood affect women’s careers? 
-description: Causal estimates using medically induced ovulation treatments
+title: motherhood and career penalty 
+description: How does motherhood affect women’s careers? Causal estimates using medically induced ovulation treatments
 img:
 importance: 1
-category: labor markets
+category: maternal labor supply
 ---
 
 **How does motherhood affect women’s careers? - Causal estimates using medically induced ovulation treatments**
