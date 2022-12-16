@@ -1,6 +1,6 @@
 ---
 layout: page
-title: motherhood and career penalty 
+title: Motherhood and career penalty 
 description: How does motherhood affect women’s careers? Causal estimates using medically induced ovulation treatments
 img:
 importance: 1

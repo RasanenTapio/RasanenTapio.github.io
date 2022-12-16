@@ -1,6 +1,6 @@
 ---
 layout: page
-title: a stress test for welfare state
+title: A stress test for welfare state
 description: Stress-testing Finnish Welfare State with microsimulation
 img:
 importance: 1

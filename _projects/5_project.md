@@ -1,10 +1,10 @@
 ---
 layout: page
-title: private childcare subsidies
+title: Private childcare subsidies
 description: Effects of private childcare subsidies on supply and demand of ECEC services
 img:
 importance: 1
-category: childcare subsidies
+category: family policies
 ---
 
 **Private childcare subsidies and vouchers**

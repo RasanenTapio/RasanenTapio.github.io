@@ -1,6 +1,6 @@
 ---
 layout: page
-title: parental leave policies and health
+title: Parental leave and health
 description: Father's Quota and Maternal Mental Health
 img:
 importance: 1
