@@ -26,5 +26,5 @@ Research fields:
 - Labour Economics, Family Economics, Population Economics
 - Health Economics, Public Economics
 
-Contact me at (tapio.rasanen@kela.fi) [mailto: tapio.rasanen@kela.fi]
+Contact me at [tapio.rasanen@kela.fi](mailto: tapio.rasanen@kela.fi)
 
