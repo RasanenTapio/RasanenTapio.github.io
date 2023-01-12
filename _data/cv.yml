@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 1985
     - name: Languages
-      value: English, Finnish, Elementary Japanese, Elementary Swedish
+      value: English, Finnish, Japanese, Swedish
 
 - title: Education
   type: time_table
@@ -15,18 +15,17 @@
       institution: Jyväskylä University School of Business and Economics (JSBE), Finland
       year: 2018 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Microeconomics
+        - Econometrics
+        - title: Research skills studies
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Writing and publication
+            - Open Science
     - title: Master of Science (MSc), Statistics
       institution: University of Eastern Finland (UEF)
       year: 2013
       description:
-        - Description 1.
-        - Description 2.
+        - Demographic statistics and statistical methods
 
 - title: Experience
   type: time_table
@@ -35,29 +34,13 @@
       institution: Kela, the Social Insurance Institution of Finland
       year: 2016 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Register-based research on family policies and employment
+        - Microsimulation
     - title: Senior Statistician
       institution: Statistics Finland
       year: 2014 - 2016
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Research services
+        - Microsimulation
 
 

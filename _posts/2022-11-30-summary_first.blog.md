@@ -3,8 +3,8 @@ layout: post
 title: Back to work or stay at home? Employment effect of cash-for-care benefit
 date: 2022-11-30 11:12:00-0400
 description: Summary of results
-tags: publication
-categories: employment, subsidies, childcare
+tags: employment, subsidies, childcare
+categories: publication
 ---
 
 # Brief summary
