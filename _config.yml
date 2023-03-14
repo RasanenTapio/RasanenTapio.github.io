@@ -2,21 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Tapio Räsänen # the website title (if blank, full name will be used instead)
 first_name: Tapio
 middle_name:
 last_name: Räsänen
 email: tapio.rasanen@kela.fi
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Tapio Räsänen's homepage. I am a researcher at Social Insurance Institution of Finland, Kela,
+  and a Ph.D. student in economics at Jyväskylä University School of Business and Economics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: economics, homepage, academic-website, portfolio-website, kotisivu, taloustiede  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔬  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: RasanenTapio.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -38,8 +39,8 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
-# will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
+# will use title and url fields
 
 rss_icon: false
 
@@ -67,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: RasanenTapio # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: TapioRasanen # your Twitter handle
 mastodon_username: masto.ai/@TapioRasanen # your mastodon instance+username in the format instance.tld/@username
@@ -82,7 +83,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Tapio-Raesaenen-2 # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://tietotarjotin.fi/yhteystieto/114632/tapio-rasanen # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -97,7 +98,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Follow me at Mastodon or contact me by email. 
+  Follow me at Twitter, Mastodon or contact me by email. 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -115,7 +116,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Tapio Räsänen # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Blog
+blog_description: Tapio Räsänen's Blog
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -197,7 +198,7 @@ defaults:
   - scope:
       path: "assets/**/*.*"
     values:
-      sitemap: false
+      sitemap: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
