@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+**Suoraan Sanoen. Kotihoidon tuki leikkuriin.
+Nykyhallitus ei koskenut keskustalle tärkeään tukeen. Seuraavan hallituksen pitäisi, sanovat tutkijat.
+[Suomen Kuvalehti 23.3.2023](https://suomenkuvalehti.fi/uutisviikko/marinin-hallitus-ei-koskenut-keskustan-vaalimaan-kotihoidon-tukeen-asia-tulee-pakostakin-seuraavan-hallituksen-poydalle/)
+
 **Hoivavastuut, tasa-arvo ja työllisyys pienten lasten perheissä.** Avoin seminaari: Perhesuhteet ja sukupuolten tasa-arvo sosiaaliturvauudistuksessa.
 [Esitys 13.12.2022](https://youtu.be/cl3qHvNLykM?t=795)
 
@@ -16,7 +20,7 @@ nav_order: 5
 Kahden lapsen yksinhuoltaja Heidin taloustilanne parani hänen jäädessään yksinhuoltajaksi. Yksinhuoltajat ovat silti köyhyysriskissä, sanoo Kelan tutkija Tapio Räsänen.
 [Iltalehti 15.1.2022](https://www.iltalehti.fi/kotimaa/a/0f45a215-97c7-40d6-9191-9e0b686d2ac8)
 
-**Koronan aiheuttama työttömyys iski pahiten yksin asuviin – tulot putosivat yli 40 prosenttia** [Uusimaa 18.5.2021](https://www.uusimaa.fi/paikalliset/4149219)
+**Koronan aiheuttama työttömyys iski pahiten yksin asuviin – tulot putosivat yli 40 prosenttia** [Uusimaa 18.5.2021](https://www.uusimaa.fi/paikalliset/4149219)
 
 **Tunteet kuumenivat – nyt Kelan tutkimus valottaa tukimekanismia, johon perhevapaauudistus kaatui** [Talouselämä 19.2.2019](https://www.talouselama.fi/uutiset/tunteet-kuumenivat-nyt-kelan-tutkimus-valottaa-tukimekanismia-johon-perhevapaauudistus-kaatui/c9b85734-cba3-3bf6-a971-63bd49aff9c2)
 
