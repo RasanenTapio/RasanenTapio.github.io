@@ -7,8 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-**Suoraan Sanoen. Kotihoidon tuki leikkuriin.
-Nykyhallitus ei koskenut keskustalle tärkeään tukeen. Seuraavan hallituksen pitäisi, sanovat tutkijat.
+**Suoraan Sanoen. Kotihoidon tuki leikkuriin.** Nykyhallitus ei koskenut keskustalle tärkeään tukeen. Seuraavan hallituksen pitäisi, sanovat tutkijat.
 [Suomen Kuvalehti 23.3.2023](https://suomenkuvalehti.fi/uutisviikko/marinin-hallitus-ei-koskenut-keskustan-vaalimaan-kotihoidon-tukeen-asia-tulee-pakostakin-seuraavan-hallituksen-poydalle/)
 
 **Hoivavastuut, tasa-arvo ja työllisyys pienten lasten perheissä.** Avoin seminaari: Perhesuhteet ja sukupuolten tasa-arvo sosiaaliturvauudistuksessa.
