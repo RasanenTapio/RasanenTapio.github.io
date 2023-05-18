@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+**Vieraskynä. Kesken jäänyttä perhevapaiden uudistamista pitää jatkaa.** Uudistustoiveita kohdistuu erityisesti kotihoidon tukeen, joka on säilynyt muuttumattomana kolmekymmentä vuotta.[Helsingin Sanomat 13.5.2023](https://www.hs.fi/mielipide/art-2000009519848.html)
+
 **Suoraan Sanoen. Kotihoidon tuki leikkuriin.** Nykyhallitus ei koskenut keskustalle tärkeään tukeen. Seuraavan hallituksen pitäisi, sanovat tutkijat.
 [Suomen Kuvalehti 23.3.2023](https://suomenkuvalehti.fi/uutisviikko/marinin-hallitus-ei-koskenut-keskustan-vaalimaan-kotihoidon-tukeen-asia-tulee-pakostakin-seuraavan-hallituksen-poydalle/)
 
