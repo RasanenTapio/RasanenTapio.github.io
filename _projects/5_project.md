@@ -7,11 +7,17 @@ importance: 1
 category: family policies
 ---
 
-## Private childcare subsidies and vouchers
+## Work in progress: Private childcare subsidies and vouchers
 
-We study the introduction of early childhood education and care (ECEC) subsidies and vouchers in Finland. In the Nordic context, where universal childcare provision is common, we study two policy expansions between 1997 and 2017.
+New work in progress in private childcare subsidies. We study the introduction of early childhood education and care (ECEC) subsidies and vouchers in Finland. In the Nordic context, where universal childcare provision is common, we study two policy expansions between 1997 and 2017. First, private child care allowance was introduced in 1997, spreading private early childhood education services. Second, childcare vouchers became more common in the 2010s and 2020s and eventually replaced a portion of private child care allowance use.
 
-### Publications
+### Publications: Articles
+
+New article [Subsidizing private childcare in a universal regime](https://link.springer.com/article/10.1007/s11150-023-09657-7) with Eva Österbacka. **Abstract:**
+
+* All families in Finland have the freedom to choose between subsidized home care, universal public childcare, and private childcare. We study the impact of the introduction of private childcare subsidies in Finland. Private childcare subsidies have causal effects on take-up but no impact on home care or employment among women with small children. Instead, private services seem to crowd out public childcare. Private services have a socioeconomic gradient by mother’s education that steepens when the subsidy increases. Families’ preferences between home care, public childcare, and private childcare do not explain the result.
+
+### Working papers and reports
 
 New working paper on **private day care allowance** is available (in Finnish) [here](https://helda.helsinki.fi/handle/10138/353434)[^note]. Summary of main results in English:
 
