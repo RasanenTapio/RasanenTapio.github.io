@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+**Vakaassa työ-tilanteessa olevat äidit palaavat töihin muita nopeammin** Väitöstutkimuksen mukaan etenkin pitkään lasten kanssa kotona olevat äidit jäävät isien ja lyhyemmän ajan kotona olleiden äitien palkkakehityksestä. [Helsingin Sanomat 7.8.2023](https://www.hs.fi/talous/art-2000009764847.html)
+
 **Vieraskynä. Kesken jäänyttä perhevapaiden uudistamista pitää jatkaa.** Uudistustoiveita kohdistuu erityisesti kotihoidon tukeen, joka on säilynyt muuttumattomana kolmekymmentä vuotta.[Helsingin Sanomat 13.5.2023](https://www.hs.fi/mielipide/art-2000009519848.html)
 
 **Suoraan Sanoen. Kotihoidon tuki leikkuriin.** Nykyhallitus ei koskenut keskustalle tärkeään tukeen. Seuraavan hallituksen pitäisi, sanovat tutkijat.
