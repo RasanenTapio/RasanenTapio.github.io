@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my homepage! I'm a researcher at the Social Insurance Institution of Finland, Kela, and a Ph.D. student in economics at Jyväskylä University School of Business and Economics. 
+Hi, welcome to my homepage! I'm a senior researcher at the Social Insurance Institution of Finland, Kela, and a Ph.D. in economics from Jyväskylä University School of Business and Economics. 
 
 My research interests include family policies and their (sometimes unintended) effects. For example, how parental leaves and childcare subsidies affect families’ choices. I also study how childbirth affects earnings, the wage gap between women and men, and gender differences in the labor market.
 

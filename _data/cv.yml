@@ -11,10 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Student
+    - title: PhD
       institution: Jyväskylä University School of Business and Economics (JSBE), Finland
-      year: 2018 - 
+      year: 2018 - 2023
       description:
+      Dissertation [Empirical studies on family economics](http://hdl.handle.net/10138/359259)
         - Microeconomics
         - Econometrics
         - title: Research skills studies
@@ -30,9 +31,15 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Senior Researcher
+      institution: Kela, the Social Insurance Institution of Finland
+      year: 2023 - 
+      description:
+        - Register-based research on family policies and employment
+        - Microsimulation
     - title: Researcher
       institution: Kela, the Social Insurance Institution of Finland
-      year: 2016 - 
+      year: 2016 - 2023
       description:
         - Register-based research on family policies and employment
         - Microsimulation
