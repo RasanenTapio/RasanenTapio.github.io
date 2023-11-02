@@ -34,13 +34,18 @@
       institution: Kela, the Social Insurance Institution of Finland
       year: 2023 - 
       description:
-        - Register-based research on family policies and employment
+        - Register-based research on family policies, employment and health
         - Microsimulation
+    - title: Project Researcher
+      institution:  Åbo Akademi University
+      year: 2023 - 
+      description:
+        - Research on how childbirth and childcare affect the labor market outcomes and the health of parents, children, and grandparents.
     - title: Researcher
       institution: Kela, the Social Insurance Institution of Finland
       year: 2016 - 2023
       description:
-        - Register-based research on family policies and employment
+        - Register-based research on family policies and employment effects
         - Microsimulation
     - title: Senior Statistician
       institution: Statistics Finland
