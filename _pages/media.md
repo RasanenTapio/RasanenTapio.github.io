@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-**MTV selvitti: Näissä kunnissa saa eniten kotihoidon tukea – ensi vuonna kärkeen nousee uusi kunta** Yhä useampi kunta houkuttelee vanhempia hoitamaan alle kolmevuotiaita lapsiaan kotona maksamalla ylimääräistä kuntalisää. MTV selvitti, mitkä kunnat ovat avokätisimpiä kuntalisien maksajia. [MTV3 Television 11.10.2023](https://www.mtvuutiset.fi/artikkeli/mtv-selvitti-naissa-kunnissa-saa-eniten-kotihoidon-tukea-ensi-vuonna-karkeen-nousee-uusi-kunta/9019232)
+**MTV selvitti: Näissä kunnissa saa eniten kotihoidon tukea – ensi vuonna kärkeen nousee uusi kunta** Yhä useampi kunta houkuttelee vanhempia hoitamaan alle kolmevuotiaita lapsiaan kotona maksamalla ylimääräistä kuntalisää. MTV selvitti, mitkä kunnat ovat avokätisimpiä kuntalisien maksajia. [MTV3 Television 11.10.2024](https://www.mtvuutiset.fi/artikkeli/mtv-selvitti-naissa-kunnissa-saa-eniten-kotihoidon-tukea-ensi-vuonna-karkeen-nousee-uusi-kunta/9019232)
 
 
 **Vakaassa työ-tilanteessa olevat äidit palaavat töihin muita nopeammin** Väitöstutkimuksen mukaan etenkin pitkään lasten kanssa kotona olevat äidit jäävät isien ja lyhyemmän ajan kotona olleiden äitien palkkakehityksestä. [Helsingin Sanomat 7.8.2023](https://www.hs.fi/talous/art-2000009764847.html)
