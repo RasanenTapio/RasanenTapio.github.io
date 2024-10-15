@@ -7,14 +7,17 @@ nav: true
 nav_order: 5
 ---
 
+**MTV selvitti: Näissä kunnissa saa eniten kotihoidon tukea – ensi vuonna kärkeen nousee uusi kunta** Yhä useampi kunta houkuttelee vanhempia hoitamaan alle kolmevuotiaita lapsiaan kotona maksamalla ylimääräistä kuntalisää. MTV selvitti, mitkä kunnat ovat avokätisimpiä kuntalisien maksajia. [MTV3 Television 11.10.2023](https://www.mtvuutiset.fi/artikkeli/mtv-selvitti-naissa-kunnissa-saa-eniten-kotihoidon-tukea-ensi-vuonna-karkeen-nousee-uusi-kunta/9019232)
+
+
 **Vakaassa työ-tilanteessa olevat äidit palaavat töihin muita nopeammin** Väitöstutkimuksen mukaan etenkin pitkään lasten kanssa kotona olevat äidit jäävät isien ja lyhyemmän ajan kotona olleiden äitien palkkakehityksestä. [Helsingin Sanomat 7.8.2023](https://www.hs.fi/talous/art-2000009764847.html)
 
-**Vieraskynä. Kesken jäänyttä perhevapaiden uudistamista pitää jatkaa.** Uudistustoiveita kohdistuu erityisesti kotihoidon tukeen, joka on säilynyt muuttumattomana kolmekymmentä vuotta.[Helsingin Sanomat 13.5.2023](https://www.hs.fi/mielipide/art-2000009519848.html)
+**Vieraskynä. Kesken jäänyttä perhevapaiden uudistamista pitää jatkaa.** Uudistustoiveita kohdistuu erityisesti kotihoidon tukeen, joka on säilynyt muuttumattomana kolmekymmentä vuotta. [Helsingin Sanomat 13.5.2023](https://www.hs.fi/mielipide/art-2000009519848.html)
 
-**Suoraan Sanoen. Kotihoidon tuki leikkuriin.** Nykyhallitus ei koskenut keskustalle tärkeään tukeen. Seuraavan hallituksen pitäisi, sanovat tutkijat.
+**Suoraan Sanoen. Kotihoidon tuki leikkuriin.** Nykyhallitus ei koskenut keskustalle tärkeään tukeen. Seuraavan hallituksen pitäisi, sanovat tutkijat. 
 [Suomen Kuvalehti 23.3.2023](https://suomenkuvalehti.fi/uutisviikko/marinin-hallitus-ei-koskenut-keskustan-vaalimaan-kotihoidon-tukeen-asia-tulee-pakostakin-seuraavan-hallituksen-poydalle/)
 
-**Hoivavastuut, tasa-arvo ja työllisyys pienten lasten perheissä.** Avoin seminaari: Perhesuhteet ja sukupuolten tasa-arvo sosiaaliturvauudistuksessa.
+**Hoivavastuut, tasa-arvo ja työllisyys pienten lasten perheissä.** Avoin seminaari: Perhesuhteet ja sukupuolten tasa-arvo sosiaaliturvauudistuksessa. 
 [Esitys 13.12.2022](https://youtu.be/cl3qHvNLykM?t=795)
 
 * Esitys 13.12.2022 saatavilla [SlideSharessa](https://www.slideshare.net/kelantutkimus/tapio-rsnen-hoivavastuut-tasaarvo-ja-tyllisyys-pienten-lasten-perheiss)
