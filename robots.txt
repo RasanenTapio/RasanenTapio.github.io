@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: RasanenTapio.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: RasanenTapio.github.io/al-folio/sitemap.xml
