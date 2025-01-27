@@ -5,7 +5,7 @@ permalink: /projects/
 description: A summary of ongoing research projects.
 nav: true
 nav_order: 2
-display_categories: [maternal labor supply, family policies, microsimulation]
+display_categories: [labour economics, family policies, microsimulation]
 horizontal: false
 ---
 
