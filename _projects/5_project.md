@@ -13,13 +13,7 @@ New work in progress in private childcare subsidies. We study the introduction o
 
 ### Publications: Articles
 
-New article [Between
-universalism and the market model. How the
-introduction of the early childhood education
-voucher has affected the early childhood education
-system (Universalismin ja markkinamallin välissä.
-Varhaiskasvatuksen palvelusetelin käyttöönoton
-vaikutuksia varhaiskasvatusjärjestelmälle)](https://www.julkari.fi/handle/10024/150020) with Ville Ruutainen.
+New article [Between universalism and the market model. How the introduction of the early childhood education voucher has affected the early childhood education system (Universalismin ja markkinamallin välissä. Varhaiskasvatuksen palvelusetelin käyttöönoton vaikutuksia varhaiskasvatusjärjestelmälle)](https://www.julkari.fi/handle/10024/150020) with Ville Ruutainen.
 
 **Abstract:**
 
