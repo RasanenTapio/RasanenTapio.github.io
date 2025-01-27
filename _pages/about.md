@@ -21,10 +21,12 @@ Hi, welcome to my homepage! I'm a senior researcher at the Social Insurance Inst
 
 My research interests include family policies and their (sometimes unintended) effects. For example, how parental leaves and childcare subsidies affect families’ choices. I also study how childbirth affects earnings, the wage gap between women and men, and gender differences in the labor market.
 
+BlueSky here: [tapiorasanen.bsky.social](tapiorasanen.bsky.social)
 
 Research fields and interests:
-- Labour Economics, Family Economics, Population Economics
-- Health Economics, Public Economics
+- Labour, Family and Population Economics
+- Health Economics
+- Public Economics
 
 Contact me at [tapio.rasanen@kela.fi](mailto: tapio.rasanen@kela.fi)
 

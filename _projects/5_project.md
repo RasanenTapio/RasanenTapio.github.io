@@ -13,7 +13,21 @@ New work in progress in private childcare subsidies. We study the introduction o
 
 ### Publications: Articles
 
-New article [Subsidizing private childcare in a universal regime](https://link.springer.com/article/10.1007/s11150-023-09657-7) with Eva Österbacka. **Abstract:**
+New article [Between
+universalism and the market model. How the
+introduction of the early childhood education
+voucher has affected the early childhood education
+system (Universalismin ja markkinamallin välissä.
+Varhaiskasvatuksen palvelusetelin käyttöönoton
+vaikutuksia varhaiskasvatusjärjestelmälle)](https://www.julkari.fi/handle/10024/150020) with Ville Ruutainen.
+
+**Abstract:**
+
+* In Finland, responsibility for the provision of early childhood education and care services (ECEC) lies with municipalities. However, municipal authorities can decide to produce these services themselves or purchase them from the private sector. They can negotiate contracts with private service providers, or grant vouchers or supplements to the private day care allowance paid out by Kela. Since the 2010s, private ECEC provision has increased considerably following the decision of many municipalities to grant these demand-side subsidies. The subsidy systems and ways of ECEC provision differ from each other. While public ECEC can be seen as representing a universal service system, demand-side subsidies, vouchers and the private day care allowance are shifting ECEC provision towards a more market-based system. This study uses register data to examine the dynamics between different ways of providing ECEC services by researching how the introduction of a voucher system in municipalities impacts the use and supply of public ECEC services and the use of the private day care allowance. The results show that the introduction of the service voucher has affected the share of public services and private day care allowance, but not the number of private day care centres. In addition, the size of the municipality and the age of children are related to the impact. 
+
+New article [Subsidizing private childcare in a universal regime](https://link.springer.com/article/10.1007/s11150-023-09657-7) with Eva Österbacka.
+
+**Abstract:**
 
 * All families in Finland have the freedom to choose between subsidized home care, universal public childcare, and private childcare. We study the impact of the introduction of private childcare subsidies in Finland. Private childcare subsidies have causal effects on take-up but no impact on home care or employment among women with small children. Instead, private services seem to crowd out public childcare. Private services have a socioeconomic gradient by mother’s education that steepens when the subsidy increases. Families’ preferences between home care, public childcare, and private childcare do not explain the result.
 
