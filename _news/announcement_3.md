@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-12-17 15:17:00-0400
+date: 2016-01-15 07:59:00-0400
 inline: true
+related_posts: false
 ---
 
-Follow me at [Mastodon](https://masto.ai/@TapioRasanen)
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
