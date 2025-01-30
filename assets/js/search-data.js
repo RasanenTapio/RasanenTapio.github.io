@@ -59,10 +59,10 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-date-is-set-i-defend-my-doctoral-dissertation-in-economics-empirical-studies-on-family-economics-next-august-link-to-jsbe-calendar",
+    },{id: "news-date-is-set-i-defend-my-doctoral-dissertation-in-economics-empirical-studies-on-family-economics-next-august",
           title: 'Date is set: I defend my doctoral dissertation in Economics “Empirical Studies on...',
           description: "",
-          section: "News",},{id: "news-my-doctoral-dissertation-is-published-i-succesfully-defended-my-doctoral-dissertation-empirical-studies-on-family-economics-at-jsbe-link-to-release-in-finnish",
+          section: "News",},{id: "news-my-doctoral-dissertation-is-published-i-succesfully-defended-my-doctoral-dissertation-empirical-studies-on-family-economics-at-jsbe",
           title: 'My doctoral dissertation is published! I succesfully defended my doctoral dissertation, Empirical Studies...',
           description: "",
           section: "News",},{id: "projects-country-team",
@@ -100,7 +100,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("tapiorasanen.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/tapiorasanen.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
