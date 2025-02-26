@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-media",
+          title: "media",
+          description: "Media appearances and interviews in Finnish.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/media/";
+          },
         },{id: "post-a-post-with-formatting-and-links",
       
         title: "a post with formatting and links",
