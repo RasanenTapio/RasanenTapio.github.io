@@ -50,7 +50,7 @@
       "date": "2024-10-01",
       "awarder": "JSBE-Säätiö",
       "url": "https://www.jsbesaatio.fi/",
-      "summary": "Onni Sairanen's best thesis award 2024 (Onni Sairasen huippu-stipendi)"
+      "summary": "Onni Sairanen's best dissertation award 2024 (Onni Sairasen huippuväitöskirja -stipendi)"
     }
   ],
   "languages": [
@@ -65,7 +65,11 @@
       "icon": ""
     },
     {
-      "other languages": "Swedish, Japanese"
+      "language": "Swedish"
+    },
+    {
+      "language": "Japanese"
     }
+	
   ]
 }
