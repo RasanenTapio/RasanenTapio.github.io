@@ -31,6 +31,30 @@
       "summary": "Register-based research on family policies, employment and health. ",
       "highlights": ["Microsimulation"]
     }
+	{
+      "name": "Åbo Akademi University",
+      "position": "Project Researcher",
+      "url": "https://www.kela.fi/kelan-tutkimus-ja-tilastot",
+      "startDate": "2023-10-01",
+      "endDate": "",
+      "summary": "Research on fertility, family policies, employment and health. ",
+    }
+	{
+      "name": "Kela, the Social Insurance Institution of Finland",
+      "position": "Researcher",
+      "url": "https://www.kela.fi/kelan-tutkimus-ja-tilastot",
+      "startDate": "2016-01-01",
+      "endDate": "2023-09-31",
+      "summary": "Register-based research on family policies and employment. ",
+      "highlights": ["Microsimulation"]
+    }
+		{
+      "name": "Statistics Finland",
+      "position": "Senior Statistician ",
+      "startDate": "2014-06-01",
+      "endDate": "2016-01-01",
+      "summary": "Updating microsimulation models. ",
+    }
   ],
   "education": [
     {
